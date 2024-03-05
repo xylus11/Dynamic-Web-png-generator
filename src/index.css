@@ -1,0 +1,28 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+#root{
+  border: 1px solid black;
+  width: 80vw;
+  height: 90vh;
+ margin: auto;
+ padding: 40px;
+ background: radial-gradient(#e66465, #9198e5);
+
+}
+.Date{
+  font-size: 15px; 
+}
+button{
+  position: relative;
+
+  
+  left:20rem;
+
+}
+a{
+  text-decoration: none;
+  color: white;
+}
